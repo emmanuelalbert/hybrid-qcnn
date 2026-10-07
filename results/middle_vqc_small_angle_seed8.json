@@ -1,0 +1,136 @@
+{
+  "model_name": "middle_vqc",
+  "seed": 8,
+  "n_params": 26774,
+  "max_epochs": 30,
+  "epochs_trained": 12,
+  "best_epoch": 7,
+  "stopped_early": true,
+  "patience": 5,
+  "init_method": "small_angle",
+  "total_train_time_sec": 20.41365933418274,
+  "test_accuracy": 0.939,
+  "test_f1": 0.9389747430737281,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.776805679321289,
+      "val_loss": 1.2533470754623413,
+      "val_accuracy": 0.605,
+      "val_f1": 0.5073805551493834,
+      "epoch_time_sec": 1.518068552017212,
+      "grad_norm_mean": 0.2381817814952965,
+      "grad_norm_std": 0.15277232291011872
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.9693678007125854,
+      "val_loss": 0.8112363691329956,
+      "val_accuracy": 0.661,
+      "val_f1": 0.6174254542345806,
+      "epoch_time_sec": 1.5163347721099854,
+      "grad_norm_mean": 0.4906300966498218,
+      "grad_norm_std": 0.34223125469458254
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5865897998809815,
+      "val_loss": 0.5368553419113159,
+      "val_accuracy": 0.842,
+      "val_f1": 0.838507473478532,
+      "epoch_time_sec": 1.469547986984253,
+      "grad_norm_mean": 0.626924559851236,
+      "grad_norm_std": 0.4882027653953697
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.3971570400238037,
+      "val_loss": 0.3796875319480896,
+      "val_accuracy": 0.902,
+      "val_f1": 0.9020525083719274,
+      "epoch_time_sec": 1.563495397567749,
+      "grad_norm_mean": 0.6079043600755402,
+      "grad_norm_std": 0.5142237247922753
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.283619179046154,
+      "val_loss": 0.28086542439460754,
+      "val_accuracy": 0.928,
+      "val_f1": 0.9274850244323515,
+      "epoch_time_sec": 1.5068295001983643,
+      "grad_norm_mean": 0.5769337027133266,
+      "grad_norm_std": 0.4726902656728708
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.19819613310694695,
+      "val_loss": 0.2677950117588043,
+      "val_accuracy": 0.938,
+      "val_f1": 0.9376175151761418,
+      "epoch_time_sec": 1.5378520488739014,
+      "grad_norm_mean": 0.5176417643699465,
+      "grad_norm_std": 0.4309222146491461
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.14690221751332283,
+      "val_loss": 0.21348271012306214,
+      "val_accuracy": 0.948,
+      "val_f1": 0.9478000214729404,
+      "epoch_time_sec": 1.5492613315582275,
+      "grad_norm_mean": 0.417195738022086,
+      "grad_norm_std": 0.34600508203612096
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.1185313053369522,
+      "val_loss": 0.24565028297901154,
+      "val_accuracy": 0.934,
+      "val_f1": 0.9335044678123839,
+      "epoch_time_sec": 1.4904899597167969,
+      "grad_norm_mean": 0.39537610363545295,
+      "grad_norm_std": 0.34499749876087227
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.09957267605662345,
+      "val_loss": 0.3591796536445618,
+      "val_accuracy": 0.919,
+      "val_f1": 0.9193328063124836,
+      "epoch_time_sec": 1.550997018814087,
+      "grad_norm_mean": 0.3645098834664007,
+      "grad_norm_std": 0.31261064602604394
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.1068211454629898,
+      "val_loss": 0.2384194792509079,
+      "val_accuracy": 0.941,
+      "val_f1": 0.9406109838843492,
+      "epoch_time_sec": 1.4786784648895264,
+      "grad_norm_mean": 0.44847753389349465,
+      "grad_norm_std": 0.38516200088624714
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.131683788895607,
+      "val_loss": 0.21908588325977327,
+      "val_accuracy": 0.95,
+      "val_f1": 0.9496135090737742,
+      "epoch_time_sec": 1.630324363708496,
+      "grad_norm_mean": 0.5392504859762856,
+      "grad_norm_std": 0.4728014021168781
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.11425206546783448,
+      "val_loss": 0.2570312554836273,
+      "val_accuracy": 0.934,
+      "val_f1": 0.9338558190676572,
+      "epoch_time_sec": 1.5472023487091064,
+      "grad_norm_mean": 0.5167904268903069,
+      "grad_norm_std": 0.4689303020699115
+    }
+  ]
+}

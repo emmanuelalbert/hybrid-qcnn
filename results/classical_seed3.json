@@ -1,0 +1,135 @@
+{
+  "model_name": "classical",
+  "seed": 3,
+  "n_params": 26574,
+  "max_epochs": 30,
+  "epochs_trained": 12,
+  "best_epoch": 7,
+  "stopped_early": true,
+  "patience": 5,
+  "total_train_time_sec": 13.968780279159546,
+  "test_accuracy": 0.964,
+  "test_f1": 0.9639125928439132,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.5282661235809327,
+      "val_loss": 0.9848323860168458,
+      "val_accuracy": 0.71,
+      "val_f1": 0.666050407105671,
+      "epoch_time_sec": 1.0591681003570557,
+      "grad_norm_mean": 0.1955475761684813,
+      "grad_norm_std": 0.18663923906846136
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.7056795747280121,
+      "val_loss": 0.48142265152931213,
+      "val_accuracy": 0.882,
+      "val_f1": 0.8810734744704444,
+      "epoch_time_sec": 0.9916675090789795,
+      "grad_norm_mean": 0.2440135109273693,
+      "grad_norm_std": 0.21672297297399254
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.2965470133781433,
+      "val_loss": 0.23319457864761353,
+      "val_accuracy": 0.937,
+      "val_f1": 0.9368448653560592,
+      "epoch_time_sec": 0.9405190944671631,
+      "grad_norm_mean": 0.2757877366075033,
+      "grad_norm_std": 0.24131851756497275
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.18884764560461045,
+      "val_loss": 0.20214273715019226,
+      "val_accuracy": 0.947,
+      "val_f1": 0.9466780991949699,
+      "epoch_time_sec": 0.9666335582733154,
+      "grad_norm_mean": 0.22909603390512587,
+      "grad_norm_std": 0.1936458624144898
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.12893053135871888,
+      "val_loss": 0.19124100363254548,
+      "val_accuracy": 0.952,
+      "val_f1": 0.9519085040127809,
+      "epoch_time_sec": 0.964707612991333,
+      "grad_norm_mean": 0.21322314639257478,
+      "grad_norm_std": 0.1881778338759006
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.09948390499353409,
+      "val_loss": 0.21305108308792114,
+      "val_accuracy": 0.951,
+      "val_f1": 0.950425464507959,
+      "epoch_time_sec": 0.9907224178314209,
+      "grad_norm_mean": 0.19351901090409182,
+      "grad_norm_std": 0.17223767174667196
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.08730762475728988,
+      "val_loss": 0.15117556262016296,
+      "val_accuracy": 0.958,
+      "val_f1": 0.9578303356952871,
+      "epoch_time_sec": 0.970465898513794,
+      "grad_norm_mean": 0.19791190422882762,
+      "grad_norm_std": 0.1779541503991696
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.0678423742622137,
+      "val_loss": 0.1947012637257576,
+      "val_accuracy": 0.945,
+      "val_f1": 0.9446895601017917,
+      "epoch_time_sec": 1.0309691429138184,
+      "grad_norm_mean": 0.1668338450614976,
+      "grad_norm_std": 0.1465917414030697
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.058071341048181055,
+      "val_loss": 0.19234700527787207,
+      "val_accuracy": 0.956,
+      "val_f1": 0.9552114662872346,
+      "epoch_time_sec": 1.0206584930419922,
+      "grad_norm_mean": 0.16718356015420036,
+      "grad_norm_std": 0.15266257342351955
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.053131836349517104,
+      "val_loss": 0.16543400072306394,
+      "val_accuracy": 0.964,
+      "val_f1": 0.9646119076324279,
+      "epoch_time_sec": 1.1357364654541016,
+      "grad_norm_mean": 0.1664500598901812,
+      "grad_norm_std": 0.15028871419615572
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.039453583338111636,
+      "val_loss": 0.16824106788635254,
+      "val_accuracy": 0.961,
+      "val_f1": 0.9605051333067353,
+      "epoch_time_sec": 1.1444220542907715,
+      "grad_norm_mean": 0.12806678335241314,
+      "grad_norm_std": 0.1160404646704327
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.02952917733155191,
+      "val_loss": 0.2007839955687523,
+      "val_accuracy": 0.955,
+      "val_f1": 0.9549019781536738,
+      "epoch_time_sec": 1.075737714767456,
+      "grad_norm_mean": 0.10704701475775506,
+      "grad_norm_std": 0.10024488943516972
+    }
+  ]
+}

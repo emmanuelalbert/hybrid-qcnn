@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Data and model artifacts
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.pkl
+*.h5
+
+# Logs and outputs
+runs/
+wandb/
+logs/
+EOF

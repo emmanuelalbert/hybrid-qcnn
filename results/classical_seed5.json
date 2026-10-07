@@ -1,0 +1,135 @@
+{
+  "model_name": "classical",
+  "seed": 5,
+  "n_params": 26574,
+  "max_epochs": 30,
+  "epochs_trained": 12,
+  "best_epoch": 7,
+  "stopped_early": true,
+  "patience": 5,
+  "total_train_time_sec": 8.00229549407959,
+  "test_accuracy": 0.945,
+  "test_f1": 0.9428893194884305,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.6896495637893676,
+      "val_loss": 1.1479327907562256,
+      "val_accuracy": 0.558,
+      "val_f1": 0.4899975301706663,
+      "epoch_time_sec": 0.6380877494812012,
+      "grad_norm_mean": 0.24185623742545706,
+      "grad_norm_std": 0.25589340328698673
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.8257676252365113,
+      "val_loss": 0.5368578760623932,
+      "val_accuracy": 0.816,
+      "val_f1": 0.7712199177206452,
+      "epoch_time_sec": 0.6175675392150879,
+      "grad_norm_mean": 0.2658747855243804,
+      "grad_norm_std": 0.25318335741758347
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.4361728448033333,
+      "val_loss": 0.5910454144477845,
+      "val_accuracy": 0.838,
+      "val_f1": 0.8286353439955244,
+      "epoch_time_sec": 0.5343763828277588,
+      "grad_norm_mean": 0.27340256969762755,
+      "grad_norm_std": 0.25502911087455626
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.2863602082014084,
+      "val_loss": 0.287036146402359,
+      "val_accuracy": 0.934,
+      "val_f1": 0.9321141569453502,
+      "epoch_time_sec": 0.5202879905700684,
+      "grad_norm_mean": 0.2610812336206436,
+      "grad_norm_std": 0.23290993141222605
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.17784878261089324,
+      "val_loss": 0.2815949658155441,
+      "val_accuracy": 0.928,
+      "val_f1": 0.9271585503872941,
+      "epoch_time_sec": 0.5951893329620361,
+      "grad_norm_mean": 0.22544128145975403,
+      "grad_norm_std": 0.19915199190189567
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.11279562014937401,
+      "val_loss": 0.26888304567337035,
+      "val_accuracy": 0.92,
+      "val_f1": 0.9191524069176594,
+      "epoch_time_sec": 0.5652947425842285,
+      "grad_norm_mean": 0.1923831215104725,
+      "grad_norm_std": 0.17107331898959377
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.11120915837883949,
+      "val_loss": 0.19529092714190482,
+      "val_accuracy": 0.944,
+      "val_f1": 0.9436922283205943,
+      "epoch_time_sec": 0.5539131164550781,
+      "grad_norm_mean": 0.18222877774623375,
+      "grad_norm_std": 0.1583024360993995
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.07876905300617218,
+      "val_loss": 0.2543010924011469,
+      "val_accuracy": 0.941,
+      "val_f1": 0.9404514896918013,
+      "epoch_time_sec": 0.5740764141082764,
+      "grad_norm_mean": 0.1681592777206362,
+      "grad_norm_std": 0.1470543034492603
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.09251929650008678,
+      "val_loss": 0.25009174090623854,
+      "val_accuracy": 0.943,
+      "val_f1": 0.9423975966282697,
+      "epoch_time_sec": 0.6016218662261963,
+      "grad_norm_mean": 0.21770885398116294,
+      "grad_norm_std": 0.19141269443981065
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.08436745860725642,
+      "val_loss": 0.20122821049392223,
+      "val_accuracy": 0.953,
+      "val_f1": 0.9524217957983968,
+      "epoch_time_sec": 0.5751552581787109,
+      "grad_norm_mean": 0.1995794385188271,
+      "grad_norm_std": 0.1731723981343587
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.05398010587915778,
+      "val_loss": 0.23023115672916175,
+      "val_accuracy": 0.943,
+      "val_f1": 0.9426972233518318,
+      "epoch_time_sec": 0.5958635807037354,
+      "grad_norm_mean": 0.1588651782691573,
+      "grad_norm_std": 0.13738256340987887
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.059945763713121415,
+      "val_loss": 0.2066437444090843,
+      "val_accuracy": 0.956,
+      "val_f1": 0.95569058009758,
+      "epoch_time_sec": 0.6200077533721924,
+      "grad_norm_mean": 0.1788988624333958,
+      "grad_norm_std": 0.160348956938833
+    }
+  ]
+}
